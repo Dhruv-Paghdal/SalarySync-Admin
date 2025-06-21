@@ -1,0 +1,24 @@
+.navButton{
+    color: #FFFFFF !important;
+    border-radius: 0.8rem !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+}
+
+.navLink{
+    display: block;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 14px !important;
+    border: 1px solid #00ABE4 !important;
+    border-radius: 0.8rem !important;
+}
+
+.navLink:hover{
+    background-color: #00ABE4;
+    color: #FFFFFF !important;
+    cursor: pointer;
+}
